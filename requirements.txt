@@ -1,0 +1,16 @@
+attrs==19.3.0
+Click==7.0
+Flask==1.1.1
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+more-itertools==8.0.2
+packaging==20.0
+pluggy==0.13.1
+py==1.8.1
+pyparsing==2.4.6
+pytest==5.3.2
+six==1.13.0
+wcwidth==0.1.8
+Werkzeug==1.0.0
